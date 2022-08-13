@@ -1,0 +1,78 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "G-01",
+      "nama": "Griya Kuantan Amarta",
+      "alamat": "Jl. Wates KM 3, Amarta, Yogyakarta",
+      "is_ready": true,
+      "gambar": "Featured-Perumahan-Griya-Kuantan-Amarta.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "G-02",
+      "nama": "Kuantan Regency Kwarasan",
+      "alamat": "Jl. Kabupaten, Kwarasan, Yogyakarta",
+      "is_ready": true,
+      "gambar": "Featured-Perumahan-Kuantan-Regency-Kwarasan.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "G-03",
+      "nama": "Kuantan Regency Kadipiro",
+      "alamat": "Jl. Wates KM 2,5, Kadipiro, Yogyakarta",
+      "is_ready": true,
+      "gambar": "Featured-Kuantan-Regency-Kadipiro.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "G-01",
+      "nama": "Griya Kuantan Amarta",
+      "alamat": "Jl. Wates KM 3, Amarta, Yogyakarta",
+      "is_ready": true,
+      "gambar": "rumah-dijual-di-jogja-griya-kuantan-amarta.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "G-02",
+      "nama": "Kuantan Regency Kwarasan",
+      "alamat": "Jl. Kabupaten, Kwarasan, Yogyakarta",
+      "is_ready": true,
+      "gambar": "rumah-dijual-di-yogyakarta-kuantan-regency-kwarasan.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "G-03",
+      "nama": "Kuantan Regency Kadipiro",
+      "alamat": "Jl. Wates KM 2,5, Kadipiro, Yogyakarta",
+      "is_ready": true,
+      "gambar": "rumah-dijual-di-jogja-2022-kuantan-regency-kadipiro.jpg"
+    },
+	{
+      "id": 4,
+      "kode": "G-04",
+      "nama": "Kuantan Regency Nogotirto",
+      "alamat": "Jalan Godean Km 4, Nogotirto, Yogyakarta",
+      "is_ready": true,
+      "gambar": "perumahan-baru-di-jogja-kuantan-regency-nogotirto.jpg"
+    },
+	{
+      "id": 5,
+      "kode": "G-05",
+      "nama": "Arsita Regency Titibumi",
+      "alamat": "Jl. Titibumi Timur, Banyuraden, Yogyakarta",
+      "is_ready": true,
+      "gambar": "perumahan-mewah-di-yogyakarta-arsita-regency-titibumi.jpg"
+    },
+	{
+      "id": 6,
+      "kode": "G-06",
+      "nama": "Arsita Regency Titibumi",
+      "alamat": "Jl. Titibumi Timur, Banyuraden, Yogyakarta",
+      "is_ready": true,
+      "gambar": "perumahan-mewah-di-yogyakarta-arsita-regency-titibumi.jpg"
+    }
+  ]
+}
